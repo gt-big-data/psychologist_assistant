@@ -37,6 +37,8 @@ function Form() {
                     <option value = "higherLevel">Above Masters Degree</option>
                 </select>
             </label>
+            <br/>
+            <input type="submit" value="Submit"></input>
         </form>
     )
 }
