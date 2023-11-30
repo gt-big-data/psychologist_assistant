@@ -1,8 +1,9 @@
 import React from 'react'
+import './Form.css';
 
 function Form() {
     return (
-        <form>
+        <form className = 'my-form'>
             <label>Enter your name: 
                 <input type="text"/>
             </label>
